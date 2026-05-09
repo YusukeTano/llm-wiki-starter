@@ -1,0 +1,8 @@
+llm-wiki-starter Skill v1.6.2
+Package paths are ASCII-only for ChatGPT Skills upload compatibility.
+Generated wiki paths may use Japanese names.
+Privacy modes: standard keeps human names; strict redacts human names; custom is category-by-category.
+Files:
+- SKILL.md
+- README.md
+- manifest.txt
